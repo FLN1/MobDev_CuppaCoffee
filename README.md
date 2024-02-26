@@ -1,8 +1,9 @@
 # About
 
-This is a Flutter project in compliance for Introduction to Flutter CIS 2203 G1 Midterm Project.
+This is a Flutter project in compliance for Mobile Development: CIS 2203, Finals Project.
 
 ## Group Members
 
-- **[Josh Arkane Orbiso](https://github.com/orbijo)**
-- **[James Bañes](https://github.com/SenpaiKames)**
+- **[Nhemuel Robles]**
+- **[Byron Ralph Boter]**
+- **[Vladymir Roman]**
